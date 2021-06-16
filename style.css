@@ -1,0 +1,12 @@
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+#myCarousel {
+    background-color: aqua;
+}
+
+#yeet {
+    width: 300px;
+}
